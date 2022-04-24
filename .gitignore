@@ -18,3 +18,5 @@ locales/
 /VERSION
 /src/
 .DS_STORE
+pyenv/*
+
